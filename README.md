@@ -1,5 +1,5 @@
 # Pysics
-A very small and lightweight physics simulator that was originally made for a grade 12 physics project, though, afterwards, a few other features were added.
+A very small and lightweight physics simulator that was originally made for a grade 12 physics project. Though, afterwards, a few other features were added.
 
 ## How to run
 First, ensure the lastest version Python is installed on your device.
